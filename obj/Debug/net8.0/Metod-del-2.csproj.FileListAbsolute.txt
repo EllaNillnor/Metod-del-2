@@ -1,0 +1,14 @@
+C:\Github\Metod-del-2\bin\Debug\net8.0\Metod-del-2.exe
+C:\Github\Metod-del-2\bin\Debug\net8.0\Metod-del-2.deps.json
+C:\Github\Metod-del-2\bin\Debug\net8.0\Metod-del-2.runtimeconfig.json
+C:\Github\Metod-del-2\bin\Debug\net8.0\Metod-del-2.dll
+C:\Github\Metod-del-2\bin\Debug\net8.0\Metod-del-2.pdb
+C:\Github\Metod-del-2\obj\Debug\net8.0\Metod-del-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Metod-del-2\obj\Debug\net8.0\Metod-del-2.AssemblyInfoInputs.cache
+C:\Github\Metod-del-2\obj\Debug\net8.0\Metod-del-2.AssemblyInfo.cs
+C:\Github\Metod-del-2\obj\Debug\net8.0\Metod-del-2.csproj.CoreCompileInputs.cache
+C:\Github\Metod-del-2\obj\Debug\net8.0\Metod-del-2.dll
+C:\Github\Metod-del-2\obj\Debug\net8.0\refint\Metod-del-2.dll
+C:\Github\Metod-del-2\obj\Debug\net8.0\Metod-del-2.pdb
+C:\Github\Metod-del-2\obj\Debug\net8.0\Metod-del-2.genruntimeconfig.cache
+C:\Github\Metod-del-2\obj\Debug\net8.0\ref\Metod-del-2.dll
